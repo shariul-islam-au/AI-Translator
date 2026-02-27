@@ -68,9 +68,10 @@ If you use this tool in your research, please cite:
 ```
 @mastersthesis{shariul2025smishdetect,
   title={SmishDetect-LLM: Multilingual SMS Security Framework},
-  author={Shariul Islam},
+  author={Md Shariul Islam},
   year={2025},
-  school={Murdoch University}
+  school={Murdoch University},
+  url = {https://github.com/shariul-islam-au/AI-Translator}
 }
 ```
 
